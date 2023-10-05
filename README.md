@@ -1,0 +1,1 @@
+#Hi this is my 2nd init way github learning 
